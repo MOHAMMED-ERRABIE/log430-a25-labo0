@@ -35,3 +35,5 @@ def test_division_by_zero():
 """def test_addition_fail():
     calc = Calculator()
     assert calc.addition(2, 3) == 6  # Faux résultat """
+
+# Ceci est un test de push pour déclencher la CI
